@@ -1,0 +1,30 @@
+2020-12-07 08:50:52.019 [http-nio-8094-exec-4] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 08:50:52.052 [http-nio-8094-exec-4] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 08:50:52.092 [http-nio-8094-exec-4] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 09:01:38.673 [http-nio-8094-exec-7] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - ==>  Preparing: select distinct * from TB_REPAIR_MALFUNCTION
+2020-12-07 09:01:38.673 [http-nio-8094-exec-7] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - ==> Parameters: 
+2020-12-07 09:01:38.688 [http-nio-8094-exec-7] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - <==      Total: 10
+2020-12-07 09:26:10.163 [http-nio-8094-exec-1] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 09:26:10.166 [http-nio-8094-exec-1] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 09:26:10.179 [http-nio-8094-exec-1] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 10:14:04.469 [http-nio-8094-exec-4] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 10:14:04.471 [http-nio-8094-exec-4] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 10:14:04.481 [http-nio-8094-exec-4] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 10:33:39.221 [http-nio-8094-exec-5] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 10:33:39.356 [http-nio-8094-exec-5] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 10:33:39.604 [http-nio-8094-exec-5] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 10:35:59.672 [http-nio-8094-exec-8] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 10:35:59.689 [http-nio-8094-exec-8] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 10:35:59.716 [http-nio-8094-exec-8] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 12:14:04.694 [http-nio-8094-exec-9] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 12:14:05.100 [http-nio-8094-exec-9] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 12:14:06.015 [http-nio-8094-exec-9] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 13:37:51.972 [http-nio-8094-exec-1] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-07 13:37:51.980 [http-nio-8094-exec-1] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-07 13:37:51.991 [http-nio-8094-exec-1] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-07 13:38:23.723 [http-nio-8094-exec-3] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - ==>  Preparing: select distinct * from TB_REPAIR_MALFUNCTION
+2020-12-07 13:38:23.724 [http-nio-8094-exec-3] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - ==> Parameters: 
+2020-12-07 13:38:23.992 [http-nio-8094-exec-3] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - <==      Total: 10
+2020-12-07 15:40:29.259 [http-nio-8094-exec-2] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - ==>  Preparing: select distinct * from TB_REPAIR_MALFUNCTION
+2020-12-07 15:40:29.301 [http-nio-8094-exec-2] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - ==> Parameters: 
+2020-12-07 15:40:29.338 [http-nio-8094-exec-2] DEBUG com.twkf.dao.CommonDao.findRepairMalfunction - <==      Total: 10

@@ -1,0 +1,6 @@
+2020-12-01 08:43:00.578 [http-nio-8094-exec-9] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==>  Preparing: select distinct * from TB_REPAIR_CONTENT
+2020-12-01 08:43:00.623 [http-nio-8094-exec-9] DEBUG com.twkf.dao.CommonDao.findRepairContent - ==> Parameters: 
+2020-12-01 08:43:00.674 [http-nio-8094-exec-9] DEBUG com.twkf.dao.CommonDao.findRepairContent - <==      Total: 8
+2020-12-01 16:33:00.054 [http-nio-8094-exec-10] DEBUG com.twkf.dao.VehicleRepairDao.findOrderStatus - ==>  Preparing: select case when RR_TIME_END is not null then '已维修' when is_transfer_order = 1 then '已转单' else '正常' end status from TB_REPAIR_RECORD where rr_id = ?
+2020-12-01 16:33:00.727 [http-nio-8094-exec-10] DEBUG com.twkf.dao.VehicleRepairDao.findOrderStatus - ==> Parameters: 1111(String)
+2020-12-01 16:33:00.855 [http-nio-8094-exec-10] DEBUG com.twkf.dao.VehicleRepairDao.findOrderStatus - <==      Total: 0

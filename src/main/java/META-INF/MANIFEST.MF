@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Class-Path: commons-beanutils-1.8.0.jar spring-beans-5.3.1.jar pagehel
+ per-spring-boot-starter-1.3.0.jar jackson-core-2.11.3.jar spring-webm
+ vc-5.3.1.jar commons-lang-2.5.jar spring-expression-5.3.1.jar mybatis
+ -spring-2.0.5.jar ojdbc8-19.7.0.0.jar commons-logging-1.1.1.jar mapst
+ ruct-1.2.0.Final.jar mybatis-plus-annotation-3.2.0.jar snakeyaml-1.27
+ .jar log4j-api-2.13.3.jar json-lib-2.4-jdk15.jar spring-context-5.3.1
+ .jar springfox-swagger2-2.9.2.jar mybatis-plus-boot-starter-3.2.0.jar
+  lombok-1.18.16.jar jackson-mapper-asl-1.8.5.jar logback-core-1.2.3.j
+ ar classmate-1.5.1.jar spring-boot-starter-logging-2.4.0-20201112.134
+ 328-721.jar mybatis-spring-boot-starter-2.1.3.jar jakarta.annotation-
+ api-1.3.5.jar spring-aop-5.3.1.jar spring-plugin-core-1.2.0.RELEASE.j
+ ar xmlbeans-2.6.0.jar logback-classic-1.2.3.jar log4j-1.2.17.jar poi-
+ ooxml-3.15.jar springfox-spi-2.9.2.jar javassist-3.25.0-GA.jar common
+ s-collections4-4.1.jar spring-boot-devtools-2.4.0-20201112.134328-721
+ .jar knife4j-spring-ui-2.0.4.jar commons-collections-3.2.1.jar spring
+ loaded-1.2.8.RELEASE.jar swagger-annotations-1.5.22.jar poi-ooxml-sch
+ emas-3.15.jar ezmorph-1.0.6.jar commons-codec-1.15.jar springfox-bean
+ -validators-2.9.2.jar spring-boot-starter-json-2.4.0-20201112.134328-
+ 720.jar mybatis-plus-extension-3.2.0.jar jsqlparser-3.2.jar mybatis-3
+ .5.5.jar jackson-core-asl-1.8.5.jar spring-plugin-metadata-1.2.0.RELE
+ ASE.jar springfox-core-2.9.2.jar guava-20.0.jar mybatis-plus-3.2.0.ja
+ r HikariCP-3.4.5.jar curvesapi-1.04.jar jackson-datatype-jdk8-2.11.3.
+ jar jackson-datatype-jsr310-2.11.3.jar spring-boot-starter-jdbc-2.4.0
+ -20201112.134328-720.jar jackson-annotations-2.11.3.jar spring-jcl-5.
+ 3.1.jar jackson-module-parameter-names-2.11.3.jar poi-3.15.jar swagge
+ r-models-1.5.22.jar pagehelper-spring-boot-autoconfigure-1.3.0.jar kn
+ ife4j-core-2.0.4.jar mybatis-spring-boot-autoconfigure-2.1.3.jar spri
+ ng-boot-starter-2.4.0-20201112.134328-720.jar log4j-to-slf4j-2.13.3.j
+ ar knife4j-spring-boot-autoconfigure-2.0.4.jar knife4j-spring-boot-st
+ arter-2.0.4.jar spring-tx-5.3.1.jar spring-boot-autoconfigure-2.4.0-2
+ 0201112.134328-721.jar pagehelper-5.2.0.jar spring-boot-2.4.0-2020111
+ 2.134328-720.jar slf4j-api-1.7.30.jar springfox-spring-web-2.9.2.jar 
+ spring-web-5.3.1.jar byte-buddy-1.10.18.jar jul-to-slf4j-1.7.30.jar s
+ tax-api-1.0.1.jar spring-core-5.3.1.jar spring-jdbc-5.3.1.jar spring-
+ boot-starter-web-2.4.0-20201112.134328-720.jar springfox-swagger-comm
+ on-2.9.2.jar mybatis-plus-core-3.2.0.jar knife4j-annotations-2.0.4.ja
+ r gson-2.8.5.jar jackson-databind-2.11.3.jar knife4j-spring-2.0.4.jar
+  springfox-schema-2.9.2.jar
+Main-Class: com.twkf.WxtApplication
+

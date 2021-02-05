@@ -1,0 +1,94 @@
+2020-12-08 11:33:17.987 [restartedMain] INFO  com.twkf.WxtApplication - Starting WxtApplication using Java 1.8.0_31 on fatherOfSun with PID 11332 (E:\ideaworkspace\wxt\out\artifacts\wxt_jar\wxt.jar started by 黄显乐 in E:\ideaworkspace\wxt\out\artifacts\wxt_jar)
+2020-12-08 11:33:17.989 [restartedMain] INFO  com.twkf.WxtApplication - No active profile set, falling back to default profiles: default
+2020-12-08 11:33:18.044 [restartedMain] INFO  o.s.boot.devtools.restart.ChangeableUrls - The Class-Path manifest attribute in E:\ideaworkspace\wxt\out\artifacts\wxt_jar\lib\ojdbc8-19.7.0.0.jar referenced one or more files that do not exist: file:/E:/ideaworkspace/wxt/out/artifacts/wxt_jar/lib/oraclepki.jar
+2020-12-08 11:33:18.044 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-08 11:33:18.045 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-08 11:33:19.865 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 14012 (http)
+2020-12-08 11:33:19.874 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:19.875 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 11:33:19.875 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 11:33:19.995 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring embedded WebApplicationContext
+2020-12-08 11:33:19.995 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1949 ms
+2020-12-08 11:33:20.701 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 11:33:20.793 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:20.996 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:21.025 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 14012 (http) with context path '/wxt'
+2020-12-08 11:33:21.025 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 11:33:21.043 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 11:33:21.071 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 11:33:21.214 [restartedMain] INFO  com.twkf.WxtApplication - Started WxtApplication in 3.889 seconds (JVM running for 4.568)
+2020-12-08 11:33:22.929 [Thread-1] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:23.017 [restartedMain] INFO  com.twkf.WxtApplication - Starting WxtApplication using Java 1.8.0_31 on fatherOfSun with PID 11332 (E:\ideaworkspace\wxt\out\artifacts\wxt_jar\wxt.jar started by 黄显乐 in E:\ideaworkspace\wxt\out\artifacts\wxt_jar)
+2020-12-08 11:33:23.018 [restartedMain] INFO  com.twkf.WxtApplication - No active profile set, falling back to default profiles: default
+2020-12-08 11:33:23.393 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 14012 (http)
+2020-12-08 11:33:23.394 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:23.406 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 11:33:23.407 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 11:33:23.437 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring embedded WebApplicationContext
+2020-12-08 11:33:23.438 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 414 ms
+2020-12-08 11:33:23.596 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 11:33:23.622 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:23.692 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:23.695 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 14012 (http) with context path '/wxt'
+2020-12-08 11:33:23.705 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 11:33:23.705 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 11:33:23.713 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 11:33:23.774 [restartedMain] INFO  com.twkf.WxtApplication - Started WxtApplication in 0.795 seconds (JVM running for 7.128)
+2020-12-08 11:33:23.777 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 11:33:25.666 [Thread-7] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:25.749 [restartedMain] INFO  com.twkf.WxtApplication - Starting WxtApplication using Java 1.8.0_31 on fatherOfSun with PID 11332 (E:\ideaworkspace\wxt\out\artifacts\wxt_jar\wxt.jar started by 黄显乐 in E:\ideaworkspace\wxt\out\artifacts\wxt_jar)
+2020-12-08 11:33:25.749 [restartedMain] INFO  com.twkf.WxtApplication - No active profile set, falling back to default profiles: default
+2020-12-08 11:33:26.092 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 14012 (http)
+2020-12-08 11:33:26.092 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:26.093 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 11:33:26.093 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 11:33:26.119 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring embedded WebApplicationContext
+2020-12-08 11:33:26.120 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 369 ms
+2020-12-08 11:33:26.271 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 11:33:26.294 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:26.344 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:26.347 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 14012 (http) with context path '/wxt'
+2020-12-08 11:33:26.358 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 11:33:26.360 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 11:33:26.364 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 11:33:26.418 [restartedMain] INFO  com.twkf.WxtApplication - Started WxtApplication in 0.701 seconds (JVM running for 9.772)
+2020-12-08 11:33:26.419 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 11:33:28.278 [Thread-12] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:28.369 [restartedMain] INFO  com.twkf.WxtApplication - Starting WxtApplication using Java 1.8.0_31 on fatherOfSun with PID 11332 (E:\ideaworkspace\wxt\out\artifacts\wxt_jar\wxt.jar started by 黄显乐 in E:\ideaworkspace\wxt\out\artifacts\wxt_jar)
+2020-12-08 11:33:28.370 [restartedMain] INFO  com.twkf.WxtApplication - No active profile set, falling back to default profiles: default
+2020-12-08 11:33:28.710 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 14012 (http)
+2020-12-08 11:33:28.711 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:28.722 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 11:33:28.722 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 11:33:28.753 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring embedded WebApplicationContext
+2020-12-08 11:33:28.753 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 381 ms
+2020-12-08 11:33:28.902 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 11:33:28.923 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:28.971 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:28.994 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 14012 (http) with context path '/wxt'
+2020-12-08 11:33:28.994 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 11:33:28.995 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 11:33:28.998 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 11:33:29.036 [restartedMain] INFO  com.twkf.WxtApplication - Started WxtApplication in 0.705 seconds (JVM running for 12.39)
+2020-12-08 11:33:29.037 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-08 11:33:47.471 [main] INFO  com.twkf.WxtApplication - Starting WxtApplication using Java 1.8.0_31 on fatherOfSun with PID 436 (E:\ideaworkspace\wxt\out\artifacts\wxt_jar\wxt.jar started by 黄显乐 in E:\ideaworkspace\wxt\out\artifacts\wxt_jar)
+2020-12-08 11:33:47.474 [main] INFO  com.twkf.WxtApplication - No active profile set, falling back to default profiles: default
+2020-12-08 11:33:49.120 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 14012 (http)
+2020-12-08 11:33:49.129 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:49.129 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-08 11:33:49.129 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-08 11:33:49.232 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring embedded WebApplicationContext
+2020-12-08 11:33:49.232 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1714 ms
+2020-12-08 11:33:49.873 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-08 11:33:49.932 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-08 11:33:50.139 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-14012"]
+2020-12-08 11:33:50.161 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 14012 (http) with context path '/wxt'
+2020-12-08 11:33:50.162 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-08 11:33:50.183 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-08 11:33:50.204 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-08 11:33:50.346 [main] INFO  com.twkf.WxtApplication - Started WxtApplication in 3.393 seconds (JVM running for 3.75)
+2020-12-08 11:34:08.245 [http-nio-14012-exec-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-08 11:34:08.245 [http-nio-14012-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-08 11:34:08.246 [http-nio-14012-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2020-12-08 11:34:16.776 [http-nio-14012-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Starting...
+2020-12-08 11:34:17.480 [http-nio-14012-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Start completed.

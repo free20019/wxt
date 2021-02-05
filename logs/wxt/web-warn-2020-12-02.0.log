@@ -1,0 +1,4 @@
+2020-12-02 15:27:42.574 [restartedMain] WARN  o.s.b.d.autoconfigure.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-12-02 15:27:45.362 [http-nio-8094-exec-1] WARN  com.zaxxer.hikari.util.DriverDataSource - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-12-02 16:53:10.236 [http-nio-8094-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - DatebookHikariCP - Failed to validate connection oracle.jdbc.driver.T4CConnection@19640a2d (IO 错误: Socket read timed out). Possibly consider using a shorter maxLifetime value.
+2020-12-02 16:53:29.379 [http-nio-8094-exec-5] WARN  com.zaxxer.hikari.pool.PoolBase - DatebookHikariCP - Failed to validate connection oracle.jdbc.driver.T4CConnection@139c615d (IO 错误: Socket read timed out). Possibly consider using a shorter maxLifetime value.

@@ -1,0 +1,33 @@
+2020-11-24 08:56:49.083 [restartedMain] INFO  com.twkf.WxtApplication - Starting WxtApplication using Java 1.8.0_131 on fatherOfSun with PID 13732 (E:\ideaworkspace\wxt\target\classes started by 黄显乐 in E:\ideaworkspace\wxt)
+2020-11-24 08:56:49.093 [restartedMain] INFO  com.twkf.WxtApplication - No active profile set, falling back to default profiles: default
+2020-11-24 08:56:49.250 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 08:56:49.250 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 08:56:51.715 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8094 (http)
+2020-11-24 08:56:51.742 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8094"]
+2020-11-24 08:56:51.743 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-24 08:56:51.743 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-24 08:56:51.856 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring embedded WebApplicationContext
+2020-11-24 08:56:51.856 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2605 ms
+2020-11-24 08:56:52.881 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-11-24 08:56:52.946 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 08:56:52.970 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-11-24 08:56:53.178 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8094"]
+2020-11-24 08:56:53.208 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8094 (http) with context path '/wxt'
+2020-11-24 08:56:53.211 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-11-24 08:56:53.258 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-11-24 08:56:53.317 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-11-24 08:56:53.534 [restartedMain] INFO  com.twkf.WxtApplication - Started WxtApplication in 5.31 seconds (JVM running for 10.193)
+2020-11-24 08:57:30.199 [http-nio-8094-exec-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/wxt] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-24 08:57:30.199 [http-nio-8094-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-24 08:57:30.201 [http-nio-8094-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-11-24 10:12:19.671 [http-nio-8094-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Starting...
+2020-11-24 10:12:21.340 [http-nio-8094-exec-4] INFO  com.zaxxer.hikari.pool.PoolBase - DatebookHikariCP - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-11-24 10:12:21.631 [http-nio-8094-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - DatebookHikariCP - Start completed.
+2020-11-24 11:20:24.072 [http-nio-8094-exec-2] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 11:20:33.309 [http-nio-8094-exec-10] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 11:34:04.065 [http-nio-8094-exec-7] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 11:34:27.809 [http-nio-8094-exec-5] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 11:38:09.658 [http-nio-8094-exec-3] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 11:42:47.914 [http-nio-8094-exec-2] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 14:23:16.016 [http-nio-8094-exec-1] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
+2020-11-24 14:24:48.723 [http-nio-8094-exec-8] INFO  com.twkf.error.GlobalExceptionHandler - 异常信息：org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported
